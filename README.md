@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nikita Sidorov
 ======================================================================================================================================
 
-Beginner Frontend dev and Middle Graphic designer
+Junior Frontend dev
 -------------------------------------------------
 
 I am pursuing a bachelor's degree at Far Eastern Federal University, majoring in software engineering
