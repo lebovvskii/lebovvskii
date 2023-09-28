@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ======================================================================================================================================
 
 Junior Frontend dev
--------------------------------------------------
+------------------------------------------------
 
 I am pursuing a bachelor's degree at Far Eastern Federal University, majoring in software engineering
 
