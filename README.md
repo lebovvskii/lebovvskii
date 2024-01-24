@@ -8,7 +8,6 @@ I am pursuing a bachelor's degree at Far Eastern Federal University, majoring in
 
 * 🌍  I'm based in Vladivostok
 * ✉️  You can contact me at [sidorov.nv0805@gmail.com](mailto:sidorov.nv0805@gmail.com)
-* 🧠  I'm learning React
 
 ### My Stack
 
